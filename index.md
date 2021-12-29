@@ -2,13 +2,12 @@
 
  > "Kerala IoT Challenge 2021" is a program launched by Foxlab Makerspace in association with GTech - Group of Technology Companies in Kerala to mold IoT experts in Kerala. 
 
- # About Me 
+# About Me 
 
  >Hello everyone👋, I am Akshay Pradeep, a 3rd-year Electronics and Communication Engineering student from College of Engineering Chengannur, I am participating in this IoT challenge to learn more about the IoT and help others to learn IoT and complete the Kerala IoT Challenge 2021. 
 
   
-
- # Level 1 
+# Level 1 
 
  >In level 1 we are using Arduino for the experiments, 
 
@@ -18,7 +17,7 @@
 
   
 
- ## Arduino UNO 
+## Arduino UNO 
 
  >![arduino uno](https://user-images.githubusercontent.com/65575529/146658512-36951b05-7ce5-49ee-bada-169fc0a14437.jpg) 
 
